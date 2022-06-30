@@ -35,7 +35,7 @@ export default function Projects(props) {
                         }
                     }}
                 >
-                    Some projects I've built
+                    Some projects I&apos;ve built
                 </Text>
                 {props.projects.map((project, i) => {
                     return (<Card key={i} cover css={{w: '100%', p: 0, mt: 20}}>

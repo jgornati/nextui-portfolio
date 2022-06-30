@@ -94,7 +94,7 @@ export default function About(props) {
                                 size={15}
                                 weight="light"
                             >
-                                Here are a few technologies I've been working with recently:
+                                Here are a few technologies I&apos;ve been working with recently:
                             </Text>
                             <div className={style.containerSkills} ref={skillRef}>
                                 {

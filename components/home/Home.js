@@ -42,7 +42,7 @@ export default function Home(props) {
                     weight="bold"
                 >
 
-                    I'm {props.name}
+                    I&apos;m {props.name}
                 </Text>
                 <Text
                     p
