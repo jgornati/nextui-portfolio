@@ -1,0 +1,12 @@
+.projectContainer {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.projectContainerLimit {
+    position: relative;
+    z-index: 2;
+}
