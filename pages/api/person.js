@@ -7,7 +7,7 @@ const person = {
     linkedin: "https://www.linkedin.com/in/joelgornati/",
     email: "joelgornati@gmail.com",
     aboutme: {
-        text: "Currently, I'm Exadec's Co-Founder, a technology company dedicated to Custom Software Development. I add value in different areas from issues related to sales and customer acquisition to tasks related to programming and project development.",
+        text: "Currently, I'm working as Full-Stack developer at Exadec, a technology company dedicated to Custom Software Development. I add value in different areas from issues related to sales and customer acquisition to tasks related to programming and project development.",
         photo: "/joel-image.jpg",
         skills: [
             {
